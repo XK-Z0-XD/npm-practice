@@ -1,0 +1,38 @@
+{
+    "name": "npm-practice",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "this npm package is for practicing purposes",
+    "main": "app.js",
+    "author": {
+        "name": "XK-Z0-XD",
+        "email": "eVmPr0gramm1ng@outlook.com",
+        "url": " https://github.com/XK-Z0-XD"
+    },
+    "scripts": {
+        "test": "hello_world"
+    },
+    "directories": {
+        "example": "src/example",
+        "bin": "/bin",
+        "test": "/test",
+        "doc": "/docs",
+        "lib": "/lib",
+        "man": "/man",
+        "build": "/dist"
+    },
+
+    "license": "MIT",
+    "private": false,
+    "readme": "README.md",
+    "homepage": "https://github.com/XK-Z0-XD/npm-practice#readme",
+    "bugs": {
+        "url": "https://github.com/XK-Z0-XD/npm-practice/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/XK-Z0-XD/npm-practice.git"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
