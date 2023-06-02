@@ -2,7 +2,7 @@
     "name": "npm-practice",
     "type": "module",
     "version": "1.0.0",
-    "description": "this npm package is for practicing purposes",
+    "description": "this npm package is for practicing purposes. This repo is just for practice when using github and npm for nodejs projects github packages.  There are a couple modules, but they may not work properly.",
     "main": "app.js",
     "author": {
         "name": "XK-Z0-XD",
@@ -13,7 +13,7 @@
         "test": "hello_world"
     },
     "directories": {
-        "example": "src/example",
+        "example": "/src/example",
         "bin": "/bin",
         "test": "/test",
         "doc": "/docs",
